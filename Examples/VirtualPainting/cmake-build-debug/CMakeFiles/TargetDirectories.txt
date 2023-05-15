@@ -1,0 +1,9 @@
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/VirtualPainting.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/package.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/package_source.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/install.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/amohiy/Projects/ComputerVisionCXX/Examples/VirtualPainting/cmake-build-debug/CMakeFiles/install/strip.dir
